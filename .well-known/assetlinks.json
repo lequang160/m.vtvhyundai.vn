@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.vtvhyundai",
+      "sha256_cert_fingerprints":
+      ["D0:19:31:01:3B:61:BA:C0:AF:16:0A:25:CC:B2:26:DF:C6:93:7E:B8:A0:BE:9D:FD:1A:C9:97:46:6D:2A:6A:C6"]
+    }
+  }]
